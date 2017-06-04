@@ -1,6 +1,11 @@
 Second file branch
 
 Change in master branch third time
+<<<<<<< HEAD
 sfas
 fas
 fas
+=======
+
+Second branch change second time
+>>>>>>> a50f91a43df63c2f2a3df8e60fe38d57fc34d751
